@@ -2,7 +2,7 @@
     "data": [
         {
 
-            "network": "admob",
+            "network": "",
 
             "max_ban": "bc8c90ca781662b8",
             "max_int": "41dd5fecde3e07e6",
@@ -15,18 +15,18 @@
             "admob_int": "ca-app-pub-4410161984376992/5570752887",
 
             "name": "Santa Claus",
-            "photo": "https://hichamhiya.github.io/santaglena/profileglena.jpg",
-            "voice": "https://hichamhiya.github.io/santaglena/audiosantaglena.mp3",
-            "video": "https://hichamhiya.github.io/santaglena/video.mp4",
+            "photo": "https://hichamhiya.github.io/callsanta.amazon/profileglena.jpg",
+            "voice": "https://hichamhiya.github.io/callsanta.amazon/audiosantaglena.mp3",
+            "video": "https://hichamhiya.github.io/callsanta.amazon/video.mp4",
             "stories": [
-                "https://hichamhiya.github.io/santaglena/story1glena.jpg",
-                "https://hichamhiya.github.io/santaglena/story2glena.jpg",
-                "https://hichamhiya.github.io/santaglena/story3glena.jpg"
+                "https://hichamhiya.github.io/callsanta.amazon/story1glena.jpg",
+                "https://hichamhiya.github.io/callsanta.amazon/story2glena.jpg",
+                "https://hichamhiya.github.io/callsanta.amazon/story3glena.jpg"
             ],
             "wallpapers": [
-                "https://hichamhiya.github.io/santaglena/image1glena.jpg",
-                "https://hichamhiya.github.io/santaglena/image2glena.jpg",
-                "https://hichamhiya.github.io/santaglena/image3glena.jpg"
+                "https://hichamhiya.github.io/callsanta.amazon/image1glena.jpg",
+                "https://hichamhiya.github.io/callsanta.amazon/image2glena.jpg",
+                "https://hichamhiya.github.io/callsanta.amazon/image3glena.jpg"
                 
             ]
 
